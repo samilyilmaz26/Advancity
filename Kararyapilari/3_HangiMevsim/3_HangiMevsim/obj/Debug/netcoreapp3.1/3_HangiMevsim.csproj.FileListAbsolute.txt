@@ -1,0 +1,13 @@
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\bin\Debug\netcoreapp3.1\3_HangiMevsim.exe
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\bin\Debug\netcoreapp3.1\3_HangiMevsim.deps.json
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\bin\Debug\netcoreapp3.1\3_HangiMevsim.runtimeconfig.json
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\bin\Debug\netcoreapp3.1\3_HangiMevsim.runtimeconfig.dev.json
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\bin\Debug\netcoreapp3.1\3_HangiMevsim.dll
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\bin\Debug\netcoreapp3.1\3_HangiMevsim.pdb
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\obj\Debug\netcoreapp3.1\3_HangiMevsim.csprojAssemblyReference.cache
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\obj\Debug\netcoreapp3.1\3_HangiMevsim.AssemblyInfoInputs.cache
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\obj\Debug\netcoreapp3.1\3_HangiMevsim.AssemblyInfo.cs
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\obj\Debug\netcoreapp3.1\3_HangiMevsim.csproj.CoreCompileInputs.cache
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\obj\Debug\netcoreapp3.1\3_HangiMevsim.dll
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\obj\Debug\netcoreapp3.1\3_HangiMevsim.pdb
+C:\Advancity\Kararyapilari\3_HangiMevsim\3_HangiMevsim\obj\Debug\netcoreapp3.1\3_HangiMevsim.genruntimeconfig.cache

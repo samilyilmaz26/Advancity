@@ -1,0 +1,13 @@
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\bin\Debug\netcoreapp3.1\2_HangiGun.exe
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\bin\Debug\netcoreapp3.1\2_HangiGun.deps.json
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\bin\Debug\netcoreapp3.1\2_HangiGun.runtimeconfig.json
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\bin\Debug\netcoreapp3.1\2_HangiGun.runtimeconfig.dev.json
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\bin\Debug\netcoreapp3.1\2_HangiGun.dll
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\bin\Debug\netcoreapp3.1\2_HangiGun.pdb
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\obj\Debug\netcoreapp3.1\2_HangiGun.csprojAssemblyReference.cache
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\obj\Debug\netcoreapp3.1\2_HangiGun.AssemblyInfoInputs.cache
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\obj\Debug\netcoreapp3.1\2_HangiGun.AssemblyInfo.cs
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\obj\Debug\netcoreapp3.1\2_HangiGun.csproj.CoreCompileInputs.cache
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\obj\Debug\netcoreapp3.1\2_HangiGun.dll
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\obj\Debug\netcoreapp3.1\2_HangiGun.pdb
+C:\Advancity\Kararyapilari\2_HangiGun\2_HangiGun\obj\Debug\netcoreapp3.1\2_HangiGun.genruntimeconfig.cache

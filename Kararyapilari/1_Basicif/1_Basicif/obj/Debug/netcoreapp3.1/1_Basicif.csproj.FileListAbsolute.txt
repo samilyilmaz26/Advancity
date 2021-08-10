@@ -1,0 +1,13 @@
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\bin\Debug\netcoreapp3.1\1_Basicif.exe
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\bin\Debug\netcoreapp3.1\1_Basicif.deps.json
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\bin\Debug\netcoreapp3.1\1_Basicif.runtimeconfig.json
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\bin\Debug\netcoreapp3.1\1_Basicif.runtimeconfig.dev.json
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\bin\Debug\netcoreapp3.1\1_Basicif.dll
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\bin\Debug\netcoreapp3.1\1_Basicif.pdb
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\obj\Debug\netcoreapp3.1\1_Basicif.csprojAssemblyReference.cache
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\obj\Debug\netcoreapp3.1\1_Basicif.AssemblyInfoInputs.cache
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\obj\Debug\netcoreapp3.1\1_Basicif.AssemblyInfo.cs
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\obj\Debug\netcoreapp3.1\1_Basicif.csproj.CoreCompileInputs.cache
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\obj\Debug\netcoreapp3.1\1_Basicif.dll
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\obj\Debug\netcoreapp3.1\1_Basicif.pdb
+C:\Advancity\Kararyapilari\1_Basicif\1_Basicif\obj\Debug\netcoreapp3.1\1_Basicif.genruntimeconfig.cache

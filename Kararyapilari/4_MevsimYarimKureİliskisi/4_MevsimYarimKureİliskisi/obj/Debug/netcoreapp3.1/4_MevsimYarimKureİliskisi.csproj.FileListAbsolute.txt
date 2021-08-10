@@ -1,0 +1,13 @@
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\bin\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.exe
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\bin\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.deps.json
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\bin\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.runtimeconfig.json
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\bin\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.runtimeconfig.dev.json
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\bin\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.dll
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\bin\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.pdb
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\obj\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.csprojAssemblyReference.cache
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\obj\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.AssemblyInfoInputs.cache
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\obj\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.AssemblyInfo.cs
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\obj\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.csproj.CoreCompileInputs.cache
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\obj\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.dll
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\obj\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.pdb
+C:\Advancity\Kararyapilari\4_MevsimYarimKureİliskisi\4_MevsimYarimKureİliskisi\obj\Debug\netcoreapp3.1\4_MevsimYarimKureİliskisi.genruntimeconfig.cache
