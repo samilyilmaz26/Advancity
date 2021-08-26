@@ -1,0 +1,13 @@
+C:\Advancity\OOP\Kalitim\Kalitim\bin\Debug\netcoreapp3.1\Kalitim.exe
+C:\Advancity\OOP\Kalitim\Kalitim\bin\Debug\netcoreapp3.1\Kalitim.deps.json
+C:\Advancity\OOP\Kalitim\Kalitim\bin\Debug\netcoreapp3.1\Kalitim.runtimeconfig.json
+C:\Advancity\OOP\Kalitim\Kalitim\bin\Debug\netcoreapp3.1\Kalitim.runtimeconfig.dev.json
+C:\Advancity\OOP\Kalitim\Kalitim\bin\Debug\netcoreapp3.1\Kalitim.dll
+C:\Advancity\OOP\Kalitim\Kalitim\bin\Debug\netcoreapp3.1\Kalitim.pdb
+C:\Advancity\OOP\Kalitim\Kalitim\obj\Debug\netcoreapp3.1\Kalitim.csprojAssemblyReference.cache
+C:\Advancity\OOP\Kalitim\Kalitim\obj\Debug\netcoreapp3.1\Kalitim.AssemblyInfoInputs.cache
+C:\Advancity\OOP\Kalitim\Kalitim\obj\Debug\netcoreapp3.1\Kalitim.AssemblyInfo.cs
+C:\Advancity\OOP\Kalitim\Kalitim\obj\Debug\netcoreapp3.1\Kalitim.csproj.CoreCompileInputs.cache
+C:\Advancity\OOP\Kalitim\Kalitim\obj\Debug\netcoreapp3.1\Kalitim.dll
+C:\Advancity\OOP\Kalitim\Kalitim\obj\Debug\netcoreapp3.1\Kalitim.pdb
+C:\Advancity\OOP\Kalitim\Kalitim\obj\Debug\netcoreapp3.1\Kalitim.genruntimeconfig.cache
